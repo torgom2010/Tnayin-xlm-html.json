@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<expenses>
+    <expense date="27.9.2021" category="Vodka" amount="5000">
+        My_Portfel
+    </expense>
+    <expense date="27.9.2021" category="inch ses"  amount="8500">
+        old_portfel
+    </expense>
+
+</expenses>

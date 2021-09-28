@@ -1,0 +1,25 @@
+{
+  "construction": "buylding",
+  "buylding_name": "Genesys",
+  "location": "North America",
+  "workers": 1500,
+  "floors":[{
+    "floor 1": "Microsoft Corporation"
+  },
+    {
+      "floor 2": "Nvidia Corporation"
+    },
+    {
+      "floor 3": "Python Developers"
+    }
+
+  ]
+
+
+
+
+
+}
+
+
+
